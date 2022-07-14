@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(to right,skyblue,yellow);
+}
+#container{
+    position:relative;
+    left: 30%;
+
+    height: 250px;
+    width: 500px;
+    text-align: center;
+    padding: 3%;
+    border-radius: 20px;
+    
+}
+#box{
+    display: flex;
+    justify-content: space-around;
+    font-family: cursive;
+}
+#i1{
+    color: red;
+
+}
+#i2{
+    color: blue;
+}
+button{
+    border-radius: 10px;
+    font-size: large;
+    background-color: black;
+    color: white;
+}
+h1{
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+h5{
+    font-family: monospace;
+}
